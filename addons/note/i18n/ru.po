@@ -95,7 +95,8 @@ msgstr "Отображаемое имя"
 #. module: note
 #: model:ir.model.fields,field_description:note.field_note_stage_fold
 msgid "Folded by Default"
-msgstr "Папка по умолчанию"
+msgstr "Свернуто по умолчанию"
+#msgstr "Папка по умолчанию"
 
 #. module: note
 #: model:ir.ui.view,arch_db:note.view_note_note_filter
